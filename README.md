@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://phucchivas.vercel.app/](https://phucchivas.vercel.app/)
 
-- 💬 Ask me about **React, Angular, C#**
+- 💬 Ask me about **JS, TS, .Net Core, Docker, Config Server, React, Angular, C#**
 
 - 📫 How to reach me **ngocphuc.chivas@gmail.com**
 

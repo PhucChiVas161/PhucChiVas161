@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dương Ngọc Phúc</h1>
 <h3 align="center">A passionate full stack developer from Việt Nam ⭐</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phucchivas161&label=Profile%20views&color=0e82b4&style=plastic" alt="phucchivas161" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phucchivas161&label=Profile%20views&color=0e82b4&style=plastic" alt="phucchivas161" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phucchivas161" alt="phucchivas161" /></a> </p>
 
